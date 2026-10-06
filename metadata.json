@@ -1,0 +1,6 @@
+{
+  "name": "Laporan Kegiatan Harian",
+  "description": "Aplikasi pencatatan, pemantauan, dan pembuatan PDF laporan kegiatan harian pekerjaan lapangan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
